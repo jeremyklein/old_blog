@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is my blog where I post things that I have learned from my side projects. 
+A highly motivated and adaptable Technology Analyst driven by intellectual curiosity and a passion for solving business problems. Possesses a track record of delivering Health Information Technology solutions.
